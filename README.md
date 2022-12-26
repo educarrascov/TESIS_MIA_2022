@@ -14,7 +14,7 @@ _________
 _________
 ## Análisis T-TEST de medias poblacionales (Pareadas):
 
-- [Script T-TEST con comparación de medias poblacionales dependientes (pareadas) - Resultado de experimentos.](https://github.com/educarrascov/TESIS_MIA_2022/blob/main/Script/Untitled.ipynb)
+- [Script T-TEST con comparación de medias poblacionales dependientes (pareadas) - Resultado de experimentos.](https://github.com/educarrascov/TESIS_MIA_2022/blob/main/t_test_tesis_sma_centralizado.ipynb)
  
 __________
 ## Miscelaneos para Tesis:
